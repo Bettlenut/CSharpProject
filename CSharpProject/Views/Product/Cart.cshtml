@@ -1,0 +1,53 @@
+﻿@model OrderViewModel
+
+<h1 class="my-4 text-center">My Shopping Cart</h1>
+
+@if (Model.OrderItems.Any())
+{
+    <h3 class="mb-4">Order Items</h3>
+
+    <table class="table table-hover align-middle shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>Product</th>
+                <th style="width: 120px;">Quantity</th>
+                <th style="width: 120px;">Price</th>
+                <th style="width: 120px;">Total</th>
+                <th style="width: 100px;">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.OrderItems)
+            {
+                <tr>
+                    <td>@item.ProductName</td>
+                    <td>@item.Quantity</td>
+                    <td>$@item.Price.ToString("N2")</td>
+                    <td>$@(item.Price * item.Quantity)</td>
+                    <td>
+                        <form asp-action="RemoveItem" method="post" class="d-inline">
+                            <input type="hidden" name="productId" value="@item.ProductId" />
+                            <button type="submit" class="btn btn-sm btn-outline-danger" title="Remove">Remove</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+            <tr class="table-light fw-bold">
+                <td colspan="3" class="text-end">Total:</td>
+                <td colspan="2" class="text-primary">$@Model.TotalAmount.ToString("N2")</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <form asp-action="PlaceOrder" method="post" class="d-flex justify-content-end">
+        <button type="submit" class="btn btn-success px-4">
+            Place Order
+        </button>
+    </form>
+}
+else
+{
+    <div class="alert alert-info text-center" role="alert">
+        Your cart is empty. <a asp-controller="Products" asp-action="Index" class="alert-link">Shop now</a>!
+    </div>
+}

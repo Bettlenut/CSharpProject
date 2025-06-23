@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CSharpProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CSharpProject.fe254es82i.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\3162c007-e6ea-4e80-85b6-2828f1861a78_product4.webp",
+      "PackagePath": "staticwebassets\\images\\3162c007-e6ea-4e80-85b6-2828f1861a78_product4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\68af4b90-520d-408c-ac3e-8dd50e6679cf_EVGA RTX 4070 Super.webp",
+      "PackagePath": "staticwebassets\\images\\68af4b90-520d-408c-ac3e-8dd50e6679cf_EVGA RTX 4070 Super.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\75d1efdb-51b9-4db5-8c4d-9130c39553c1_68af4b90-520d-408c-ac3e-8dd50e6679cf_EVGA RTX 4070 Super.webp",
+      "PackagePath": "staticwebassets\\images\\75d1efdb-51b9-4db5-8c4d-9130c39553c1_68af4b90-520d-408c-ac3e-8dd50e6679cf_EVGA RTX 4070 Super.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\84c8590f-696d-4b4b-a0aa-cf5e5182e703_ROG-STRIX-Z790-E-II.png",
+      "PackagePath": "staticwebassets\\images\\84c8590f-696d-4b4b-a0aa-cf5e5182e703_ROG-STRIX-Z790-E-II.png"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\902b82d8-498e-41bd-9748-20fe61f0153f_product4.webp",
+      "PackagePath": "staticwebassets\\images\\902b82d8-498e-41bd-9748-20fe61f0153f_product4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png",
+      "PackagePath": "staticwebassets\\images\\ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp",
+      "PackagePath": "staticwebassets\\images\\b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\c5179451-42e3-4fd6-8c49-46b85490eb13_K65_PRO_Mini_PBT_RENDER_09_2.width-1000.format-webp.webp",
+      "PackagePath": "staticwebassets\\images\\c5179451-42e3-4fd6-8c49-46b85490eb13_K65_PRO_Mini_PBT_RENDER_09_2.width-1000.format-webp.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\c52490cc-7d78-4b57-b680-0bc50a898a23_68af4b90-520d-408c-ac3e-8dd50e6679cf_EVGA RTX 4070 Super.webp",
+      "PackagePath": "staticwebassets\\images\\c52490cc-7d78-4b57-b680-0bc50a898a23_68af4b90-520d-408c-ac3e-8dd50e6679cf_EVGA RTX 4070 Super.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\c9495d8e-828b-43b6-b11d-9997751e49be_product4.webp",
+      "PackagePath": "staticwebassets\\images\\c9495d8e-828b-43b6-b11d-9997751e49be_product4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\dacd5cfb-cf39-48d5-a8f5-d907ac0c22b7_i9-13900k-03.webp",
+      "PackagePath": "staticwebassets\\images\\dacd5cfb-cf39-48d5-a8f5-d907ac0c22b7_i9-13900k-03.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\ded7eb6b-7887-4fa0-b6c3-96fb334a10e6_EVGA RTX 4070 Super.webp",
+      "PackagePath": "staticwebassets\\images\\ded7eb6b-7887-4fa0-b6c3-96fb334a10e6_EVGA RTX 4070 Super.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\ec2eeddb-9c41-4a08-82aa-bdcb4f7b0943_product4.webp",
+      "PackagePath": "staticwebassets\\images\\ec2eeddb-9c41-4a08-82aa-bdcb4f7b0943_product4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\fee18ce3-6293-4e6c-b96e-61939be12a00_product4.webp",
+      "PackagePath": "staticwebassets\\images\\fee18ce3-6293-4e6c-b96e-61939be12a00_product4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\i9-13900k-03.webp",
+      "PackagePath": "staticwebassets\\images\\i9-13900k-03.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CSharpProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CSharpProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CSharpProject.props",
+      "PackagePath": "build\\CSharpProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CSharpProject.props",
+      "PackagePath": "buildMultiTargeting\\CSharpProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CSharpProject.props",
+      "PackagePath": "buildTransitive\\CSharpProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

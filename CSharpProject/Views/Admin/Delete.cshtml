@@ -1,0 +1,37 @@
+﻿@model Product
+
+@{
+    ViewBag.Title = $"Delete {Model.Name} Product";
+}
+
+<div class="container my-5" style="max-width: 600px;">
+    <div class="card border-danger shadow-sm">
+        <div class="card-header bg-danger text-white">
+            <h4 class="mb-0">Confirm Deletion</h4>
+        </div>
+
+        <div class="card-body">
+            <p class="fs-5">Are you sure you want to delete the following product?</p>
+
+            <ul class="list-group mb-4">
+                <li class="list-group-item"><strong>Name:</strong> @Model.Name</li>
+                <li class="list-group-item"><strong>Description:</strong> @Model.Description</li>
+                <li class="list-group-item"><strong>Price:</strong> $@Model.Price.ToString("N2")</li>
+                <li class="list-group-item"><strong>Stock:</strong> @Model.Stock</li>
+            </ul>
+
+            <form asp-action="Delete" method="post">
+                <input type="hidden" asp-for="ProductId" />
+
+                <div class="d-flex justify-content-between">
+                    <button type="submit" class="btn btn-danger">
+                        <i class="bi bi-trash"></i> Delete
+                    </button>
+                    <a asp-action="Index" class="btn btn-outline-secondary">
+                        <i class="bi bi-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
