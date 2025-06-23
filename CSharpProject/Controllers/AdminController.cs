@@ -1,21 +1,25 @@
 ﻿using CSharpProject.Data;
 using CSharpProject.Models;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
-namespace TequliasRestaurant.Controllers
+namespace CSharpProject.Controllers
 {
     public class AdminController : Controller
     {
         private Repository<Product> products;
         private Repository<Category> categories;
         private readonly IWebHostEnvironment _webHostEnvironment;
+        private readonly UserManager<ApplicationUser> _userManager;
 
-        public AdminController(ApplicationDbContext context, IWebHostEnvironment webHostEnvironment)
+        public AdminController(ApplicationDbContext context, IWebHostEnvironment webHostEnvironment, UserManager<ApplicationUser> userManager)
         {
             products = new Repository<Product>(context);
             categories = new Repository<Category>(context);
             _webHostEnvironment = webHostEnvironment;
+            _userManager = userManager;
         }
         public async Task<IActionResult> Index()
         {
@@ -130,5 +134,37 @@ namespace TequliasRestaurant.Controllers
             await products.DeleteAsync(Product.ProductId);
             return RedirectToAction("Index");
         }
+
+        public async Task<IActionResult> ListUsers()
+        {
+            var users = await _userManager.Users.ToListAsync();
+            return View(users);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> DeleteUser(string id)
+        {
+            var user = await _userManager.FindByIdAsync(id);
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            return View(user);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteUserConfirmed(string userId)
+        {
+            var user = await _userManager.FindByIdAsync(userId);
+            if (user == null)
+            {
+                return NotFound();
+            }
+            await _userManager.DeleteAsync(user);
+            return RedirectToAction("ListUsers");
+        }
+
     }
 }

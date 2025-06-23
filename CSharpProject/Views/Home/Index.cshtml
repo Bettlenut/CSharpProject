@@ -1,8 +1,46 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Welcome to PCPro Hub";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container my-5">
+    <div class="jumbotron text-center bg-dark text-white py-5 rounded shadow">
+        <h1 class="display-4">Build Your Dream PC</h1>
+        <p class="lead">Shop premium PC parts at unbeatable prices. Fast shipping. Trusted quality.</p>
+        <a class="btn btn-primary btn-lg" href="/Product" role="button">Browse Products</a>
+    </div>
+
+    <div class="row text-center mt-5">
+        <div class="col-md-4">
+            <img src="~/images/cpu.jpg" class="img-fluid rounded mb-2" alt="CPUs" />
+            <h4>Processors</h4>
+            <p>Top performance from Intel & AMD.</p>
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/gpu.jpg" class="img-fluid rounded mb-2" alt="GPUs" />
+            <h4>Graphics Cards</h4>
+            <p>Experience stunning visuals and FPS.</p>
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/motherboard.jpg" class="img-fluid rounded mb-2" alt="Motherboards" />
+            <h4>Motherboards</h4>
+            <p>Compatible and reliable motherboards for every build.</p>
+        </div>
+    </div>
+
+    <div class="row my-5">
+        <div class="col text-center">
+            <h2>Why Choose PCPro Hub?</h2>
+            <ul class="list-unstyled mt-3">
+                <li>✅ Wide selection of high-quality PC components</li>
+                <li>✅ Competitive prices with frequent sales</li>
+                <li>✅ Secure checkout and fast delivery</li>
+                <li>✅ Trusted by gamers, pros, and builders alike</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="bg-primary text-white text-center p-4 rounded">
+        <h3>Start building your rig today!</h3>
+        <a class="btn btn-light mt-2" href="/Product">Shop Now</a>
+    </div>
 </div>

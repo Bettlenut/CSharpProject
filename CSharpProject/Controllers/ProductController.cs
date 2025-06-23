@@ -61,17 +61,14 @@ namespace CSharpProject.Controllers
                 return NotFound();
             }
 
-            // Retrieve or create an OrderViewModel from session or other state management
             var model = HttpContext.Session.Get<OrderViewModel>("OrderViewModel") ?? new OrderViewModel
             {
                 OrderItems = new List<OrderItemViewModel>(),
                 Products = await _products.GetAllAsync()
             };
 
-            // Check if the product is already in the order
             var existingItem = model.OrderItems.FirstOrDefault(oi => oi.ProductId == prodId);
 
-            // If the product is already in the order, update the quantity
             if (existingItem != null)
             {
                 existingItem.Quantity += prodQty;
@@ -87,13 +84,10 @@ namespace CSharpProject.Controllers
                 });
             }
 
-            // Update the total amount
             model.TotalAmount = model.OrderItems.Sum(oi => oi.Price * oi.Quantity);
 
-            // Save updated OrderViewModel to session
             HttpContext.Session.Set("OrderViewModel", model);
 
-            // Redirect back to Create to show updated order items
             return RedirectToAction("Index", model);
         }
 
@@ -102,7 +96,6 @@ namespace CSharpProject.Controllers
         public async Task<IActionResult> Cart()
         {
 
-            // Retrieve the OrderViewModel from session or other state management
             var model = HttpContext.Session.Get<OrderViewModel>("OrderViewModel");
 
             if (model == null || model.OrderItems.Count == 0)
@@ -115,7 +108,7 @@ namespace CSharpProject.Controllers
 
         [HttpPost]
         [Authorize]
-        public async Task<IActionResult> PlaceOrder()
+        public async Task<IActionResult> PlaceOrder(int id)
         {
             var model = HttpContext.Session.Get<OrderViewModel>("OrderViewModel");
             if (model == null || model.OrderItems.Count == 0)
@@ -123,7 +116,6 @@ namespace CSharpProject.Controllers
                 return RedirectToAction("Index");
             }
 
-            // Create a new Order entity
             Order order = new Order
             {
                 OrderDate = DateTime.Now,
@@ -131,7 +123,6 @@ namespace CSharpProject.Controllers
                 UserId = _userManager.GetUserId(User)
             };
 
-            // Add OrderItems to the Order entity
             foreach (var item in model.OrderItems)
             {
                 order.OrderItems.Add(new OrderItem
@@ -142,14 +133,13 @@ namespace CSharpProject.Controllers
                 });
             }
 
-            // Save the Order entity to the database
             await _orders.AddAsync(order);
 
-            // Clear the OrderViewModel from session or other state management
             HttpContext.Session.Remove("OrderViewModel");
 
-            // Redirect to the Order Confirmation page
-            return RedirectToAction("ViewOrders");
+            var product = await _products.GetByIdAsync(id, new QueryOptions<Product>()); // ✅ Await the result
+            TempData["TotalAmount"] = (int)(model.TotalAmount); // 💲 Stripe wants cents
+            return RedirectToAction("CreateCheckoutSession", "Stripe");
         }
 
         [HttpGet]

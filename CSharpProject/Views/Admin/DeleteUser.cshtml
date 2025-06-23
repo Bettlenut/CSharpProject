@@ -1,0 +1,36 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model Microsoft.AspNetCore.Identity.IdentityUser
+
+@{
+	ViewBag.Title = $"Delete {Model?.UserName} User";
+}
+
+<div class="container my-5" style="max-width: 600px;">
+    <div class="card border-danger shadow-sm">
+        <div class="card-header bg-danger text-white">
+            <h4 class="mb-0">Confirm Deletion</h4>
+        </div>
+
+        <div class="card-body">
+            <p class="fs-5">Are you sure you want to delete the following product?</p>
+
+            <ul class="list-group mb-4">
+                <li class="list-group-item"><strong>Name:</strong> @Model.UserName</li>
+                <li class="list-group-item"><strong>Name:</strong> @Model.Email</li>
+            </ul>
+
+            <form asp-action="DeleteUserConfirmed" asp-route-userId="@Model.Id" method="post">
+				<input type="hidden" asp-for="@Model.Id" />
+
+                <div class="d-flex justify-content-between">
+                    <button type="submit" class="btn btn-danger">
+                        <i class="bi bi-trash"></i> Delete
+                    </button>
+                    <a asp-action="Index" class="btn btn-outline-secondary">
+                        <i class="bi bi-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
