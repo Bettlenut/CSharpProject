@@ -2,45 +2,79 @@
     ViewData["Title"] = "Welcome to PCPro Hub";
 }
 
-<div class="container my-5">
-    <div class="jumbotron text-center bg-dark text-white py-5 rounded shadow">
-        <h1 class="display-4">Build Your Dream PC</h1>
-        <p class="lead">Shop premium PC parts at unbeatable prices. Fast shipping. Trusted quality.</p>
-        <a class="btn btn-primary btn-lg" href="/Product" role="button">Browse Products</a>
-    </div>
+<section id="hero">
+    <div class="container py-6">
+        <div class="row flex-lg-row-reverse align-items-center g-5">
+            <div class="col-10 mx-auto col-sm-8 col-lg-6">
+                <div id="carouselAutoplay" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="~/images/MoBo.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="~/images/CPU.webp" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="~/images/GPU.jpg" class="d-block w-100" alt="...">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselAutoplay"
+                            data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselAutoplay"
+                            data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="lc-block mb-3">
+                    <div editable="rich">
+                        <h2 class="fw-bold display-5">Responsive left-aligned hero with image</h2>
+                    </div>
+                </div>
 
+                <div class="lc-block mb-3">
+                    <div editable="rich">
+                        <p class="lead">
+                            Quickly design and customize responsive mobile-first sites with Bootstrap,
+                            the
+                            world’s most popular front-end open source toolkit, featuring Sass variables and mixins,
+                            responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="lc-block d-grid gap-2 d-md-flex justify-content-md-start">
+                    <a class="btn btn-primary px-4 me-md-2" href="#" role="button">Click me, I'm a button</a>
+                    <a class="btn btn-outline-secondary px-4" href="#" role="button">Click me, I'm a button</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="features" class="margin-side">
+    <h2>Featured Deals!</h2>
     <div class="row text-center mt-5">
         <div class="col-md-4">
-            <img src="~/images/cpu.jpg" class="img-fluid rounded mb-2" alt="CPUs" />
+            <img src="~/images/CPU.webp" class="img-fluid rounded mb-2" alt="CPUs" />
             <h4>Processors</h4>
             <p>Top performance from Intel & AMD.</p>
         </div>
         <div class="col-md-4">
-            <img src="~/images/gpu.jpg" class="img-fluid rounded mb-2" alt="GPUs" />
+            <img src="~/images/GPU.jpg" class="img-fluid rounded mb-2" alt="GPUs" />
             <h4>Graphics Cards</h4>
             <p>Experience stunning visuals and FPS.</p>
         </div>
         <div class="col-md-4">
-            <img src="~/images/motherboard.jpg" class="img-fluid rounded mb-2" alt="Motherboards" />
+            <img src="~/images/MoBo.jpg" class="img-fluid rounded mb-2" alt="Motherboards" />
             <h4>Motherboards</h4>
             <p>Compatible and reliable motherboards for every build.</p>
         </div>
     </div>
-
-    <div class="row my-5">
-        <div class="col text-center">
-            <h2>Why Choose PCPro Hub?</h2>
-            <ul class="list-unstyled mt-3">
-                <li>✅ Wide selection of high-quality PC components</li>
-                <li>✅ Competitive prices with frequent sales</li>
-                <li>✅ Secure checkout and fast delivery</li>
-                <li>✅ Trusted by gamers, pros, and builders alike</li>
-            </ul>
-        </div>
-    </div>
-
-    <div class="bg-primary text-white text-center p-4 rounded">
-        <h3>Start building your rig today!</h3>
-        <a class="btn btn-light mt-2" href="/Product">Shop Now</a>
-    </div>
-</div>
+</section>

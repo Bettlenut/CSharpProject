@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>nmewas3q01</Fingerprint>
-      <Integrity>D/xUDneHtSVKvnJ9tHuM0uLnUYS/2L4Dwck32+jKqiU=</Integrity>
+      <Fingerprint>3w71v6l2hc</Fingerprint>
+      <Integrity>zfo668jfGEWHL6AVJtZR6sWWr85bttiVACBHtnSpJPQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -71,6 +71,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\3162c007-e6ea-4e80-85b6-2828f1861a78_product4.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CSharpProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CSharpProject</BasePath>
+      <RelativePath>images/3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>of4h6xy5gn</Fingerprint>
+      <Integrity>TIUHH0DoTBbC5/w8mqjEXMOmg4CHIiKKgkF2Be+oFE0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\68af4b90-520d-408c-ac3e-8dd50e6679cf_EVGA RTX 4070 Super.webp'))">
       <SourceType>Package</SourceType>
@@ -144,6 +162,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\902b82d8-498e-41bd-9748-20fe61f0153f_product4.webp'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CSharpProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CSharpProject</BasePath>
+      <RelativePath>images/a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>071eeeg5aw</Fingerprint>
+      <Integrity>jAO4rVyzduNpo0nvZ2ksWgm+AveLQoYjgUGce0X2CFQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png'))">
       <SourceType>Package</SourceType>
       <SourceId>CSharpProject</SourceId>
@@ -179,6 +215,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Background.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CSharpProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CSharpProject</BasePath>
+      <RelativePath>images/Background.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>p4u550kk8t</Fingerprint>
+      <Integrity>N3NFuVayM0ja18vfs3jWOCRb1tInGa2nHMs1aiXNTtw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Background.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\c5179451-42e3-4fd6-8c49-46b85490eb13_K65_PRO_Mini_PBT_RENDER_09_2.width-1000.format-webp.webp'))">
       <SourceType>Package</SourceType>
@@ -233,6 +287,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\c9495d8e-828b-43b6-b11d-9997751e49be_product4.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\CPU.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CSharpProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CSharpProject</BasePath>
+      <RelativePath>images/CPU.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>l7sqg6zaq3</Fingerprint>
+      <Integrity>r1b/GXp2cGaPh7s7d1ED3EqJ6QJOczLB6zlLUPHKi/s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\CPU.webp'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dacd5cfb-cf39-48d5-a8f5-d907ac0c22b7_i9-13900k-03.webp'))">
       <SourceType>Package</SourceType>
@@ -306,6 +378,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fee18ce3-6293-4e6c-b96e-61939be12a00_product4.webp'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\GPU.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CSharpProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CSharpProject</BasePath>
+      <RelativePath>images/GPU.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>b7r7al5k5q</Fingerprint>
+      <Integrity>d5Mal7lPa8JNw6tIDmrzgumxSFMSAhUosBxk9aYbhLU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\GPU.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\i9-13900k-03.webp'))">
       <SourceType>Package</SourceType>
       <SourceId>CSharpProject</SourceId>
@@ -323,6 +413,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\i9-13900k-03.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\MoBo.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CSharpProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CSharpProject</BasePath>
+      <RelativePath>images/MoBo.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>30nyve8lzz</Fingerprint>
+      <Integrity>DSCF1TfPlGWhTBO6dNtwnmgxsa65X59O0hBGn8Z4tPE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\MoBo.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>

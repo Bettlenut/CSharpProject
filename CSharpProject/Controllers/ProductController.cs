@@ -137,8 +137,8 @@ namespace CSharpProject.Controllers
 
             HttpContext.Session.Remove("OrderViewModel");
 
-            var product = await _products.GetByIdAsync(id, new QueryOptions<Product>()); // ✅ Await the result
-            TempData["TotalAmount"] = (int)(model.TotalAmount); // 💲 Stripe wants cents
+            var product = await _products.GetByIdAsync(id, new QueryOptions<Product>());
+            TempData["TotalAmount"] = (int)(model.TotalAmount);
             return RedirectToAction("CreateCheckoutSession", "Stripe");
         }
 

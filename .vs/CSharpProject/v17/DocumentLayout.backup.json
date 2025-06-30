@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{23F8D861-3EFD-4667-9CEB-60A9A29D4675}|CSharpProject\\CSharpProject.csproj|c:\\users\\bettlenut\\documents\\c#\\csharpproject\\csharpproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23F8D861-3EFD-4667-9CEB-60A9A29D4675}|CSharpProject\\CSharpProject.csproj|solutionrelative:csharpproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23F8D861-3EFD-4667-9CEB-60A9A29D4675}|CSharpProject\\CSharpProject.csproj|c:\\users\\bettlenut\\documents\\c#\\csharpproject\\csharpproject\\controllers\\stripecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23F8D861-3EFD-4667-9CEB-60A9A29D4675}|CSharpProject\\CSharpProject.csproj|solutionrelative:csharpproject\\controllers\\stripecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,32 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StripeController.cs",
-              "DocumentMoniker": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\Controllers\\StripeController.cs",
-              "RelativeDocumentMoniker": "CSharpProject\\Controllers\\StripeController.cs",
-              "ToolTip": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\Controllers\\StripeController.cs",
-              "RelativeToolTip": "CSharpProject\\Controllers\\StripeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAA5wBwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T12:01:41.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "CSharpProject\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "CSharpProject\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAIwIYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:12:10.635Z",
-              "EditorCaption": ""
             }
           ]
         }

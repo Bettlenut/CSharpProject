@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pIUMxDn9zF3U1tp6uSZwWGwG2YxOFQ1IAyjnNf4yLN0=",
+  "Hash": "eDigJNw0z7/QvPlCchrP/hbIJlDJ2Mx3UvWNpAMHMUk=",
   "Source": "CSharpProject",
   "BasePath": "_content/CSharpProject",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nmewas3q01",
-      "Integrity": "D/xUDneHtSVKvnJ9tHuM0uLnUYS/2L4Dwck32+jKqiU=",
+      "Fingerprint": "3w71v6l2hc",
+      "Integrity": "zfo668jfGEWHL6AVJtZR6sWWr85bttiVACBHtnSpJPQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1380,6 +1380,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\3162c007-e6ea-4e80-85b6-2828f1861a78_product4.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp",
+      "SourceId": "CSharpProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\",
+      "BasePath": "_content/CSharpProject",
+      "RelativePath": "images/3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "of4h6xy5gn",
+      "Integrity": "TIUHH0DoTBbC5/w8mqjEXMOmg4CHIiKKgkF2Be+oFE0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp"
     },
     {
       "Identity": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\68af4b90-520d-408c-ac3e-8dd50e6679cf_EVGA RTX 4070 Super.webp",
@@ -1466,6 +1487,27 @@
       "OriginalItemSpec": "wwwroot\\images\\902b82d8-498e-41bd-9748-20fe61f0153f_product4.webp"
     },
     {
+      "Identity": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png",
+      "SourceId": "CSharpProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\",
+      "BasePath": "_content/CSharpProject",
+      "RelativePath": "images/a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "071eeeg5aw",
+      "Integrity": "jAO4rVyzduNpo0nvZ2ksWgm+AveLQoYjgUGce0X2CFQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png"
+    },
+    {
       "Identity": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png",
       "SourceId": "CSharpProject",
       "SourceType": "Discovered",
@@ -1506,6 +1548,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\Background.png",
+      "SourceId": "CSharpProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\",
+      "BasePath": "_content/CSharpProject",
+      "RelativePath": "images/Background#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p4u550kk8t",
+      "Integrity": "N3NFuVayM0ja18vfs3jWOCRb1tInGa2nHMs1aiXNTtw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Background.png"
     },
     {
       "Identity": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\c5179451-42e3-4fd6-8c49-46b85490eb13_K65_PRO_Mini_PBT_RENDER_09_2.width-1000.format-webp.webp",
@@ -1569,6 +1632,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\c9495d8e-828b-43b6-b11d-9997751e49be_product4.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\CPU.webp",
+      "SourceId": "CSharpProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\",
+      "BasePath": "_content/CSharpProject",
+      "RelativePath": "images/CPU#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l7sqg6zaq3",
+      "Integrity": "r1b/GXp2cGaPh7s7d1ED3EqJ6QJOczLB6zlLUPHKi/s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\CPU.webp"
     },
     {
       "Identity": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\dacd5cfb-cf39-48d5-a8f5-d907ac0c22b7_i9-13900k-03.webp",
@@ -1655,6 +1739,27 @@
       "OriginalItemSpec": "wwwroot\\images\\fee18ce3-6293-4e6c-b96e-61939be12a00_product4.webp"
     },
     {
+      "Identity": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\GPU.jpg",
+      "SourceId": "CSharpProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\",
+      "BasePath": "_content/CSharpProject",
+      "RelativePath": "images/GPU#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b7r7al5k5q",
+      "Integrity": "d5Mal7lPa8JNw6tIDmrzgumxSFMSAhUosBxk9aYbhLU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\GPU.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\i9-13900k-03.webp",
       "SourceId": "CSharpProject",
       "SourceType": "Discovered",
@@ -1674,6 +1779,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\i9-13900k-03.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\MoBo.jpg",
+      "SourceId": "CSharpProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\",
+      "BasePath": "_content/CSharpProject",
+      "RelativePath": "images/MoBo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "30nyve8lzz",
+      "Integrity": "DSCF1TfPlGWhTBO6dNtwnmgxsa65X59O0hBGn8Z4tPE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\MoBo.jpg"
     },
     {
       "Identity": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\js\\site.js",
@@ -3060,6 +3186,51 @@
       ]
     },
     {
+      "Route": "css/site.3w71v6l2hc.css",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfo668jfGEWHL6AVJtZR6sWWr85bttiVACBHtnSpJPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 04:41:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3w71v6l2hc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfo668jfGEWHL6AVJtZR6sWWr85bttiVACBHtnSpJPQ="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -3070,7 +3241,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "432"
+          "Value": "517"
         },
         {
           "Name": "Content-Type",
@@ -3078,11 +3249,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"D/xUDneHtSVKvnJ9tHuM0uLnUYS/2L4Dwck32+jKqiU=\""
+          "Value": "\"zfo668jfGEWHL6AVJtZR6sWWr85bttiVACBHtnSpJPQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Jun 2025 09:20:34 GMT"
+          "Value": "Wed, 25 Jun 2025 04:41:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3092,52 +3263,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-D/xUDneHtSVKvnJ9tHuM0uLnUYS/2L4Dwck32+jKqiU="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.nmewas3q01.css",
-      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "432"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"D/xUDneHtSVKvnJ9tHuM0uLnUYS/2L4Dwck32+jKqiU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 21 Jun 2025 09:20:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nmewas3q01"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-D/xUDneHtSVKvnJ9tHuM0uLnUYS/2L4Dwck32+jKqiU="
+          "Value": "sha256-zfo668jfGEWHL6AVJtZR6sWWr85bttiVACBHtnSpJPQ="
         }
       ]
     },
@@ -5526,6 +5652,88 @@
       ]
     },
     {
+      "Route": "images/3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.of4h6xy5gn.webp",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TIUHH0DoTBbC5/w8mqjEXMOmg4CHIiKKgkF2Be+oFE0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 04:48:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "of4h6xy5gn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TIUHH0DoTBbC5/w8mqjEXMOmg4CHIiKKgkF2Be+oFE0="
+        }
+      ]
+    },
+    {
+      "Route": "images/3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TIUHH0DoTBbC5/w8mqjEXMOmg4CHIiKKgkF2Be+oFE0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 04:48:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TIUHH0DoTBbC5/w8mqjEXMOmg4CHIiKKgkF2Be+oFE0="
+        }
+      ]
+    },
+    {
       "Route": "images/68af4b90-520d-408c-ac3e-8dd50e6679cf_EVGA RTX 4070 Super.of4h6xy5gn.webp",
       "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\68af4b90-520d-408c-ac3e-8dd50e6679cf_EVGA RTX 4070 Super.webp",
       "Selectors": [],
@@ -5854,6 +6062,88 @@
       ]
     },
     {
+      "Route": "images/a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.071eeeg5aw.png",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jAO4rVyzduNpo0nvZ2ksWgm+AveLQoYjgUGce0X2CFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 04:47:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "071eeeg5aw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jAO4rVyzduNpo0nvZ2ksWgm+AveLQoYjgUGce0X2CFQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jAO4rVyzduNpo0nvZ2ksWgm+AveLQoYjgUGce0X2CFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 04:47:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jAO4rVyzduNpo0nvZ2ksWgm+AveLQoYjgUGce0X2CFQ="
+        }
+      ]
+    },
+    {
       "Route": "images/ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.071eeeg5aw.png",
       "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png",
       "Selectors": [],
@@ -6014,6 +6304,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-TIUHH0DoTBbC5/w8mqjEXMOmg4CHIiKKgkF2Be+oFE0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Background.p4u550kk8t.png",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\Background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "343472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N3NFuVayM0ja18vfs3jWOCRb1tInGa2nHMs1aiXNTtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 03:25:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p4u550kk8t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Background.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N3NFuVayM0ja18vfs3jWOCRb1tInGa2nHMs1aiXNTtw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Background.png",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\Background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "343472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N3NFuVayM0ja18vfs3jWOCRb1tInGa2nHMs1aiXNTtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 03:25:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N3NFuVayM0ja18vfs3jWOCRb1tInGa2nHMs1aiXNTtw="
         }
       ]
     },
@@ -6260,6 +6632,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-ANC+IDx12BAWIqraH+WRkSzDG+cA+i6tCspbG8jN7FQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/CPU.l7sqg6zaq3.webp",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\CPU.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r1b/GXp2cGaPh7s7d1ED3EqJ6QJOczLB6zlLUPHKi/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 03:13:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l7sqg6zaq3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/CPU.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r1b/GXp2cGaPh7s7d1ED3EqJ6QJOczLB6zlLUPHKi/s="
+        }
+      ]
+    },
+    {
+      "Route": "images/CPU.webp",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\CPU.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r1b/GXp2cGaPh7s7d1ED3EqJ6QJOczLB6zlLUPHKi/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 03:13:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r1b/GXp2cGaPh7s7d1ED3EqJ6QJOczLB6zlLUPHKi/s="
         }
       ]
     },
@@ -6592,6 +7046,88 @@
       ]
     },
     {
+      "Route": "images/GPU.b7r7al5k5q.jpg",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\GPU.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d5Mal7lPa8JNw6tIDmrzgumxSFMSAhUosBxk9aYbhLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 03:15:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b7r7al5k5q"
+        },
+        {
+          "Name": "label",
+          "Value": "images/GPU.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d5Mal7lPa8JNw6tIDmrzgumxSFMSAhUosBxk9aYbhLU="
+        }
+      ]
+    },
+    {
+      "Route": "images/GPU.jpg",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\GPU.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d5Mal7lPa8JNw6tIDmrzgumxSFMSAhUosBxk9aYbhLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 03:15:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d5Mal7lPa8JNw6tIDmrzgumxSFMSAhUosBxk9aYbhLU="
+        }
+      ]
+    },
+    {
       "Route": "images/i9-13900k-03.82szyn63jb.webp",
       "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\i9-13900k-03.webp",
       "Selectors": [],
@@ -6670,6 +7206,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-MElGt+bQ4/2royW3aGPhZ22/PZH9c5Vf40xuRBeR4wI="
+        }
+      ]
+    },
+    {
+      "Route": "images/MoBo.30nyve8lzz.jpg",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\MoBo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DSCF1TfPlGWhTBO6dNtwnmgxsa65X59O0hBGn8Z4tPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 03:16:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "30nyve8lzz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/MoBo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DSCF1TfPlGWhTBO6dNtwnmgxsa65X59O0hBGn8Z4tPE="
+        }
+      ]
+    },
+    {
+      "Route": "images/MoBo.jpg",
+      "AssetFile": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\MoBo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DSCF1TfPlGWhTBO6dNtwnmgxsa65X59O0hBGn8Z4tPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 03:16:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DSCF1TfPlGWhTBO6dNtwnmgxsa65X59O0hBGn8Z4tPE="
         }
       ]
     },

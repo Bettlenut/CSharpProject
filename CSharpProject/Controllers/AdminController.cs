@@ -1,5 +1,6 @@
 ﻿using CSharpProject.Data;
 using CSharpProject.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -7,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CSharpProject.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class AdminController : Controller
     {
         private Repository<Product> products;

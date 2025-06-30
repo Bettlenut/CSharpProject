@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\images\\3162c007-e6ea-4e80-85b6-2828f1861a78_product4.webp"
     },
     {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp",
+      "PackagePath": "staticwebassets\\images\\3bfc0440-e515-488d-8be9-cfaf6b1583dc_b0ed2e10-c9eb-47ad-ac26-3089db52bfc1_EVGA RTX 4070 Super.webp"
+    },
+    {
       "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\68af4b90-520d-408c-ac3e-8dd50e6679cf_EVGA RTX 4070 Super.webp",
       "PackagePath": "staticwebassets\\images\\68af4b90-520d-408c-ac3e-8dd50e6679cf_EVGA RTX 4070 Super.webp"
     },
@@ -31,6 +35,26 @@
     {
       "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\902b82d8-498e-41bd-9748-20fe61f0153f_product4.webp",
       "PackagePath": "staticwebassets\\images\\902b82d8-498e-41bd-9748-20fe61f0153f_product4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\Background.png",
+      "PackagePath": "staticwebassets\\images\\Background.png"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\CPU.webp",
+      "PackagePath": "staticwebassets\\images\\CPU.webp"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\GPU.jpg",
+      "PackagePath": "staticwebassets\\images\\GPU.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\MoBo.jpg",
+      "PackagePath": "staticwebassets\\images\\MoBo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png",
+      "PackagePath": "staticwebassets\\images\\a9493ceb-db14-4cdd-adc1-c4eae4feb806_ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png"
     },
     {
       "Id": "C:\\Users\\Bettlenut\\Documents\\C#\\CSharpProject\\CSharpProject\\wwwroot\\images\\ab263883-17bb-4ddb-9c28-82e68b7d0442_ROG-STRIX-Z790-E-II.png",
